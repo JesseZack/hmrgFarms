@@ -1,0 +1,10 @@
+django
+djangorestframework
+Pillow
+django-location-field
+django-image-cropping
+secret-key-generator
+whitenoise
+markdown
+django-filter
+xhtml2pdf
